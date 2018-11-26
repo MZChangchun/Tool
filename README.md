@@ -8,6 +8,6 @@ NSString * timeStr =  [NSDate mz_fromat_time:TIME introDateFormat:@"yyyy-MM-dd H
 ```
 
 逻辑图如下
-<div align=center><img  src="https://github.com/MZChangchun/Tool/image/flowChart.png"/></div>
+<div align=center><img  src="https://github.com/MZChangchun/Tool/blob/master/image/flowChart.png"/></div>
 
 
